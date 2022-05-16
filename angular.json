@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "primeiro-projeto-angular"
+    }
+  },
+  "defaultProject": "primeiro-projeto-angular",
+  "cli": {
+    "analytics": false
+  }
 }
